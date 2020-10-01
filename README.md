@@ -4,13 +4,33 @@
 
 # About Me :tada:
 
-[![Linkedin](https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Linkedin-24.png)](https://www.linkedin.com/in/yudhan-jeffri-906839190/)
-[![WhatsApp](https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/whatsapp-24.png)](https://wa.me/62895346060631)
-
+<a href="https://www.linkedin.com/in/yudhan-jeffri-906839190/">
+  <img align="left" alt="Yudhan LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://instagram.com/_galihprihananto">
+  <img align="left" alt="Yudhan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://facebook.com/galih.p.33865">
+  <img align="left" alt="Yudhan Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://t.me/galihpro">
+  <img align="left" alt="Yudhan Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=yudhanjeffri&color=blue&style=flat-square" align="right" />
 
-
+<a href="https://www.linkedin.com/in/galih-prihananto">
+  <img align="left" alt="Galih's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://instagram.com/_galihprihananto">
+  <img align="left" alt="Galih's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://facebook.com/galih.p.33865">
+  <img align="left" alt="Galih's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://t.me/galihpro">
+  <img align="left" alt="Galih's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 <!--
 **YudhanJeffri/YudhanJeffri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -24,3 +44,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
