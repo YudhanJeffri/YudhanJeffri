@@ -9,6 +9,7 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=yudhanjeffri&color=blue&style=flat-square" align="right" />
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YudhanJeffri&show_icons=true&theme=radical)
 
 <!--
 **YudhanJeffri/YudhanJeffri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
