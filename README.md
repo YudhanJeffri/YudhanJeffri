@@ -7,28 +7,28 @@
 <a href="https://www.linkedin.com/in/yudhan-jeffri-906839190/">
   <img align="left" alt="Yudhan LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://instagram.com/_galihprihananto">
+<a href="">
   <img align="left" alt="Yudhan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://facebook.com/galih.p.33865">
+<a href="">
   <img align="left" alt="Yudhan Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://t.me/galihpro">
+<a href="">
   <img align="left" alt="Yudhan Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=yudhanjeffri&color=blue&style=flat-square" align="right" />
 
-<a href="https://www.linkedin.com/in/galih-prihananto">
+<a href="">
   <img align="left" alt="Galih's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://instagram.com/_galihprihananto">
+<a href="">
   <img align="left" alt="Galih's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://facebook.com/galih.p.33865">
+<a href="">
   <img align="left" alt="Galih's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://t.me/galihpro">
+<a href="">
   <img align="left" alt="Galih's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <!--
