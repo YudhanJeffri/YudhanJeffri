@@ -7,6 +7,10 @@
 <a href="https://www.linkedin.com/in/yudhan-jeffri-906839190/">
   <img align="left" alt="Yudhan LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://instagram.com/yudhan">
+  <img align="left" alt="Yudhan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://t.me/yudhan">
 <a href="">
   <img align="left" alt="Yudhan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
