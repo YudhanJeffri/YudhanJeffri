@@ -12,9 +12,6 @@
 </a>
 <a href="https://t.me/yudhan">
 <a href="">
-  <img align="left" alt="Yudhan Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="">
   <img align="left" alt="Yudhan Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="">
