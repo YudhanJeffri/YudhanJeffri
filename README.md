@@ -6,8 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudhanJeffri&layout=compact)](https://github.com/YudhanJeffri/github-readme-stats)
 
-
-<img src="https://komarev.com/ghpvc/?username=faresapn&color=blue&style=flat-square" align="right" />
 # About Me :tada:
 
 <a href="https://www.linkedin.com/in/yudhan-jeffri-906839190/">
